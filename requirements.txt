@@ -1,6 +1,7 @@
 pandas
 openpyxl
 streamlit
+matplotlib
 msal
-matplot
+requests
 plotly
